@@ -1,0 +1,8 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+brew "nodebrew"
+brew "ruby-build"
+brew "rbenv"
+brew "readline"
+cask "docker"
